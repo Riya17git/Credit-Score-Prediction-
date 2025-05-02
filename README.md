@@ -64,8 +64,8 @@ We focus on five major expense categories:
 - scikit-learn
 - streamlit
 
-
-
+## Demo
+https://github.com/user-attachments/assets/0102f37e-fd43-44b2-a1c4-b3ad0f312045
 
 
 
