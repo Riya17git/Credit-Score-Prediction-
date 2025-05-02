@@ -48,56 +48,6 @@ Each client’s expense data is used to:
 
 ---
 
-# 💰 Monthly Expense Forecasting with LSTM
-
-This project forecasts **total monthly expenses** and **category-wise expenses** for individual clients using **LSTM-based time series forecasting**. It helps users and financial systems anticipate future spending habits for better planning and budgeting.
-
----
-
-## 📌 Features
-
-- Forecasts **total monthly expenses** for the next month.
-- Forecasts **category-specific expenses** (e.g., groceries, restaurants).
-- Trains lightweight models dynamically per category.
-- Built with **PyTorch**, **Streamlit**, and **scikit-learn**.
-- Real-time interactive dashboard via Streamlit.
-
----
-
-## 🧠 Model Summary
-
-Each client’s expense data is used to:
-- Prepare time series inputs using sliding windows.
-- Normalize data using a `MinMaxScaler`.
-- Train an **LSTM neural network** per category (on-the-fly).
-- Forecast the next value (next month’s expense).
-
-# 💰 Monthly Expense Forecasting with LSTM
-
-This project forecasts **total monthly expenses** and **category-wise expenses** for individual clients using **LSTM-based time series forecasting**. It helps users and financial systems anticipate future spending habits for better planning and budgeting.
-
----
-
-## 📌 Features
-
-- Forecasts **total monthly expenses** for the next month.
-- Forecasts **category-specific expenses** (e.g., groceries, restaurants).
-- Trains lightweight models dynamically per category.
-- Built with **PyTorch**, **Streamlit**, and **scikit-learn**.
-- Real-time interactive dashboard via Streamlit.
-
----
-
-## 🧠 Model Summary
-
-Each client’s expense data is used to:
-- Prepare time series inputs using sliding windows.
-- Normalize data using a `MinMaxScaler`.
-- Train an **LSTM neural network** per category (on-the-fly).
-- Forecast the next value (next month’s expense).
-
----
-
 ##  Forecasted Categories
 
 We focus on five major expense categories:
