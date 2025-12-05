@@ -68,9 +68,9 @@ We focus on five major expense categories:
 https://github.com/user-attachments/assets/0102f37e-fd43-44b2-a1c4-b3ad0f312045
 
 Dashboard Images
-![Dashboard Image](Dashboard Image 1.jpg)
-![Dashboard Image](Dashboard Image 2.jpg)
-![Dashboard Image](Dashboard Image 3.jpg)
+!(Dashboard Image 1.jpg)
+!(Dashboard Image 2.jpg)
+!(Dashboard Image 3.jpg)
 
 
 
